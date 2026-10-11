@@ -21,7 +21,7 @@ These are verbatim messages from Chinese handheld QQ groups, taken from a read-o
 | 安伯尼克掌机交流群 | `34xx玩gba也能4/5小时，就是待机不行，不关机放一晚上第二天价基本会空电` |
 | 安伯尼克掌机交流群 | `开源是没待机` |
 | 安伯尼克掌机交流群 | `便携最少要能有4-5小时续航` |
-| r36s（开源掌机）交流1群 | `续航不行 别的不用换` |
+| 安伯尼克掌机交流群 | `续航不行 别的不用换` |
 | 安伯尼克掌机交流群 | `掌机没续航都是白扯` |
 | 安伯尼克掌机交流群 | `充电太慢了` |
 | 安伯尼克掌机交流群 | `嗷我应该是用了两年多电池剩80多不太耐电了` |
@@ -256,6 +256,10 @@ Because this is the part that usually gets skipped:
 | Fast chargers damaging the amplifier chip | ⚠️ **No verified case found either way.** No conclusion is drawn |
 | 2–3 h to full charge, 4–6 h runtime | ⚠️ Third-party claims. **Not** timed by us |
 | A `power_supply` node exists on the R36S | ⚠️ **Not verified.** The example output is from an ordinary Linux laptop |
+
+The two diagrams in this article are drawn by `tools/make-checklist.py` from literal shapes and text, not by an
+image model; the six files in `docs/` are either crops of real photographs or that generated diagram, and each
+caption says which it is.
 
 No price, version number, part number, command or file path in this article is invented. Group quotations are verbatim (including their typos), attributed only to the group, because the source export cannot attribute them to a person.
 
