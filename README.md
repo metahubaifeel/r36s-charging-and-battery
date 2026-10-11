@@ -152,7 +152,7 @@ Work top to bottom and stop at the first row that makes the on-screen percentage
 ![Charging checklist](docs/06-charging-checklist.png)
 
 1. **Find the right port.** Use the connector the board marks **DC**. If nothing happens, *try the other one anyway* — it costs nothing and the two ports are genuinely easy to confuse.
-2. **Change the cable to USB-A-to-USB-C** if you were using C-to-C. This is the single highest-yield action.
+2. **Change the cable to USB-A-to-USB-C** if you were using C-to-C. This is the single highest-yield action. (If your unit's charging input is not a USB-C-shaped connector at all, this step does not apply — check the `DC` port first and ignore it.)
 3. **Use a plain 5 V / 1 A or 5 V / 2 A brick**, single-port if you have one, and avoid a power bank's USB-C-only socket.
 4. **Test the cable on a phone.** If the phone charges slowly or not at all, stop here — you have found it.
 5. **Give a flat unit 30–60 minutes** before judging anything. Don't unplug and re-plug every two minutes; you cannot tell trickle from nothing that way.
